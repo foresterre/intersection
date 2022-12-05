@@ -5,6 +5,7 @@ authors = ["Martijn Gribnau <garm@ilumeo.com>"]
 description = "Find the intersection over a collection of sets; when you need more than the intersection between two sets"
 license = "MIT OR Apache-2.0"
 edition = "2021"
+rust-version = "1.56.1"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
